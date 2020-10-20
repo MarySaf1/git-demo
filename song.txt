@@ -6,13 +6,6 @@ A song is a musical composition intended to
 be performed by the human voice
 standing strong
 
-<<<<<<< HEAD
-some contect
-and here
-
 A song is a musical composition intended to 
 be performed by the human voice
 standing strong
-=======
-some contect
->>>>>>> 50dbbca93232aba567f252891270fdd2c91863d6
